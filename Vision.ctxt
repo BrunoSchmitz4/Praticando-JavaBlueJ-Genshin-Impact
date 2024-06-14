@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Vision
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Visao\ aqui.\r\n\ \r\n\ @author\ (Bruno\ Schmitz\ da\ Silva)\r\n\ @version\ (1.0)\r\n
+comment1.params=vision_name\ element
+comment1.target=Vision(java.lang.String,\ Element)
+comment2.params=vision_name
+comment2.target=boolean\ setVisionName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNomeVisao()
+comment4.params=element
+comment4.target=boolean\ setElement(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getElement()
+numComments=6

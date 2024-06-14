@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Personagem
+comment0.text=\r\n\ Classe\ abstrata\ de\ personagem\r\n\ \r\n\ @author\ (Bruno\ Schmitz\ da\ Silva)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=name\ visao\ nacao\ constelacao\ vida_base\ atk_base\ def_base\ proficiencia\ recarga_energia\ taxa_critica\ dano_critico
+comment1.target=Personagem(java.lang.String,\ Vision,\ Nation,\ java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=name
+comment2.target=boolean\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=visao_name
+comment4.target=boolean\ setVisaoName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getVisao()
+comment6.params=nation
+comment6.target=boolean\ setNation(java.lang.String)
+numComments=7

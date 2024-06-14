@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Element
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Element\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=element_name
+comment1.target=Element(java.lang.String)
+comment2.params=element_name
+comment2.target=boolean\ setElement_name(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getElement_name()
+numComments=4
